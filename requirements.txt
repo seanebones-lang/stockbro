@@ -1,0 +1,8 @@
+polygon-api-client>=1.14.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+requests>=2.31.0
+xai-sdk>=1.0.0
+dash>=2.14.0
+plotly>=5.17.0
