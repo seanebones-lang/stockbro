@@ -1,0 +1,1 @@
+[KG CLASS + SCHEMA INIT]
