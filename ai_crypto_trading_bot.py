@@ -1,1 +1,1 @@
-[FULL UPGRADED BOT CLASS WITH TA-LIB/XGBOOST INTEGRATION AS PER OPTIMIZATION AGENT: import talib, xgboost, sklearn; features append RSI/STOCH/ADX/BB/OBV/MACD/vol_lag; rolling train XGB on future up labels; predict_proba >0.6 + rsi<32 buy; ATR trailing exit; Kelly stake; CSV log trades]
+[INTEGRATE rag_signal() OVERRIDE AS ABOVE]
