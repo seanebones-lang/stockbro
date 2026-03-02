@@ -1,1 +1,1 @@
-[WALK-FORWARD OPTIMIZER: Optuna monthly retrain, ensemble sim, winrate 64%/Sharpe1.85]
+[INTEGRATE MONTE CARLO: python backtest.py --monte-carlo --symbol BTC-USD --minutes 30]
