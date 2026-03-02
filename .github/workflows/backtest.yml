@@ -1,0 +1,10 @@
+name: Walk-Forward Backtest
+on: [push,pr]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - run: pip install -r requirements.txt
+    - run: python backtest.py --walk-forward
+    - if: failure() uses: 1010code/notifications@master  # Telegram fail alert
