@@ -1,1 +1,1 @@
-[ADD BACKTEST BUTTON TO LAYOUT: dcc.Input(id='backtest-symbol'), Button('Run Backtest'), Output('backtest-results', 'children') CALLBACK: subprocess backtest.py → parse/print metrics table]
+[UPDATED DASH WITH PAPER BOT CONTROLS - PRIOR + BOT STATUS/PNL CHART/TRADES TABLE]
