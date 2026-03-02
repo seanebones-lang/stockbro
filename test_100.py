@@ -1,0 +1,1 @@
+[E2E: docker-compose up + backtest + paper sim + metrics assert Sharpe>2.0]
