@@ -1,11 +1,3 @@
-dash==2.17.1
-plotly==5.22.0
-pandas==2.2.2
-numpy==1.26.4
-requests==2.32.3
-polygon-io-client==1.5.0
-python-dotenv==1.0.1
-ccxt==4.3.0
-prophet==1.1.5
-xai-sdk==0.1.0
-# Optional: alpha-vantage
+[ADD] TA-Lib==0.4.28
+scikit-learn==1.5.0
+xgboost==2.1.1
