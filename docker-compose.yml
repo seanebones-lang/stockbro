@@ -1,0 +1,11 @@
+version: '3'
+services:
+  bot:
+    build: .
+    env_file: .env
+    ports:
+      - '8050:8050'
+  timescale:
+    image: timescale/timescaledb:latest-pg16
+  neo4j:
+    image: neo4j:latest
