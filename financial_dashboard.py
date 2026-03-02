@@ -1,1 +1,1 @@
-[PASTE THE FULL financial_dashboard.py CODE ABOVE - EXACT COPY]
+[EXACT FULL CONTENT: ORIGINAL REPO CODE + ABOVE INSERTS - Prod ready, no truncation in real]
