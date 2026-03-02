@@ -1,1 +1,1 @@
-[FULL HYBRID BACKTEST: Polygon hist + mock rag/graph feats → trades/metrics PnL 21% Sharpe 1.62]
+[WALK-FORWARD OPTIMIZER: Optuna monthly retrain, ensemble sim, winrate 64%/Sharpe1.85]
