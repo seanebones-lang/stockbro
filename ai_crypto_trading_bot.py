@@ -1,1 +1,1 @@
-[FULL BOT CODE ABOVE]
+[UPDATE: + from rag_ml_agent import rag_ml_signal; _generate_signal CALL rag_ml_signal(self.symbol, self.price_history, news_summary) OR TA]
