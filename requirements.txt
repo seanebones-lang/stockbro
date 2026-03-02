@@ -1,8 +1,11 @@
-polygon-api-client>=1.14.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-numpy>=1.24.0
-requests>=2.31.0
-xai-sdk>=1.0.0
-dash>=2.14.0
-plotly>=5.17.0
+dash==2.17.1
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+polygon-io-client==1.5.0
+python-dotenv==1.0.1
+ccxt==4.3.0
+prophet==1.1.5
+xai-sdk==0.1.0
+# Optional: alpha-vantage
