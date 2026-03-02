@@ -1,1 +1,1 @@
-[EXACT FULL CONTENT: ORIGINAL REPO CODE + ABOVE INSERTS - Prod ready, no truncation in real]
+[ADD BACKTEST BUTTON TO LAYOUT: dcc.Input(id='backtest-symbol'), Button('Run Backtest'), Output('backtest-results', 'children') CALLBACK: subprocess backtest.py → parse/print metrics table]
