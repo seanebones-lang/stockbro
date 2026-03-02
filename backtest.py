@@ -1,1 +1,1 @@
-[INTEGRATE MONTE CARLO: python backtest.py --monte-carlo --symbol BTC-USD --minutes 30]
+[INTEGRATE: python backtest.py --monte-carlo-7day --symbol BTC-USD]
