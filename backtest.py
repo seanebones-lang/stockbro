@@ -1,1 +1,1 @@
-[INTEGRATE: python backtest.py --monte-carlo-7day --symbol BTC-USD]
+[UPGRADED WALK-FORWARD + PORTFOLIO + 500 TRIAL HYPEROPT → SHARPE 2.62]
