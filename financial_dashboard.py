@@ -1,1 +1,1 @@
-[ADD 7-DAY MC TAB: Button → Results table/equity plot]
+[ADD $100 7-DAY TAB: Run sim → Daily table/chart]
